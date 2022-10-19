@@ -1,8 +1,12 @@
-# PROJECT: Decentralized Star Notary Service Project
+# PROJECT: Decentralized Star Notary Service
 
-Specify the Truffle version and OpenZeppelin version used in the project.
-Your ERC-721 Token Name: Star Notary Service
-Your ERC-721 Token Symbol: SNS
-Your “Token Address” on the Goerli Network:
-0xCa436eC5e8236A196cE89ac897f32d381873361d
+## Tools/ Libraries used
+- Truffle: v5.6.0
+- Openzeppelin-solidity: v2.3
 
+## ERC-721 Token 
+- Name: Star Notary Service
+- Symbol: SNS
+- Token address on the Goerli* Network: 0xCa436eC5e8236A196cE89ac897f32d381873361d
+
+(*Rinkeby isn't available anymore)
